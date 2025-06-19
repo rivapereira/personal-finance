@@ -2,6 +2,8 @@
 
 A modular, beginner-friendly budgeting app built using Python and Gradio. Easily track income, loans, expenses, and financial goals—all in one place—with a clear breakdown of EMI, savings, and leftover cash visualized using a pie chart.
 
+Deployment here -> [Demo](https://huggingface.co/spaces/rivapereira123/Budget-Dash-Board)
+
 ---
 
 ## ✨ Features
